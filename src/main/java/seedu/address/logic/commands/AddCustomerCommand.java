@@ -34,7 +34,7 @@ public class AddCustomerCommand extends AddCommand {
             + PREFIX_TAG + "owesMoney";
 
     public static final String MESSAGE_SUCCESS = "New customer added: %1$s";
-    public static final String MESSAGE_DUPLICATE_CUSTOMER = "This customer already exists in the address book";
+    public static final String MESSAGE_DUPLICATE_CUSTOMER = "Another customer owns the provided phone number. Please provide a different one.";
 
     private final Customer toAdd;
 
