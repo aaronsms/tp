@@ -46,4 +46,7 @@ More work has done to ensure the validity of relationship between the cheeses an
     * Added documentation for architectural design, with an updated Architecture Diagram.
     * Added documentation for implementation of Edit commands, including Sequence Diagram for `editorder`.
 
+* **Community**:
+  * PRs reviewed (with non-trivial review comments): [\#116](https://github.com/AY2021S2-CS2103-W16-2/tp/pull/116), [\#115](https://github.com/AY2021S2-CS2103-W16-2/tp/pull/115), [\#48](https://github.com/AY2021S2-CS2103-W16-2/tp/pull/48)
+
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s2.github.io/tp-dashboard/?search=aaronsms&sort=groupTitle&sortWithin=title&since=2021-02-19&timeframe=commit&mergegroup=&groupSelect=undefined&breakdown=false&tabOpen=true&tabType=authorship&tabAuthor=aaronsms&tabRepo=AY2021S2-CS2103-W16-2%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code&authorshipIsBinaryFileTypeChecked=false)
